@@ -45,13 +45,13 @@ CycleCloud is basically the on-prem way of HPC on the cloud. So if you're used t
 
 Batch is a more modern way of high performance computing. It is a bit more flexible in terms of API references and has some automation built-in. Most importantly, it offers a scheduler-as-a-service.
 
-For both there are options around containerization (see [references below]()).
+For both there are options around containerization (see [references below](https://github.com/meganbloemsma/hpc/blob/main/docs/hpc-on-azure.md#references)).
 
 You can calculate the costs for each in the [pricing calculator](https://azure.microsoft.com/pricing/calculator/), based on your expected workloads.
 
 ### References
 
-- [Overview of HPC on Azure](https://learn.microsoft.com/en-us/azure/architecture/topics/high-performance-computing)
+- [Overview of HPC on Azure](https://learn.microsoft.com/en-us/azure/high-performance-computing/)
 
 **CycleCloud:**
 
