@@ -22,7 +22,7 @@ Once a cluster is created it is automagically configured to autoscale by default
 
 Works well with intrinsically parallel workloads and HPC batch jobs. These are workloads that have applications running independently, with each instance completing part of the work at the same time. These can run at a large scale, determined by the amount of compute resources available.
 If you need to run tightly coupled workloads, where the applications need to communicate with each other, using [Microsoft MPI](https://learn.microsoft.com/en-us/message-passing-interface/microsoft-mpi) or Intel MPI.
-LAstly it supports large-scale [rendering workloads](https://learn.microsoft.com/en-us/azure/batch/batch-rendering-service).
+Lastly it supports large-scale [rendering workloads](https://learn.microsoft.com/en-us/azure/batch/batch-rendering-service).
 
 So it offers scheduler-as-a-service, which means you don't have to install, manage or scale cluster or job scheduler software.
 
